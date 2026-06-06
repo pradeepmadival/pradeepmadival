@@ -32,9 +32,9 @@ Full stack MERN app that analyzes URLs for phishing and security threats using D
 
 ## 📊 GitHub Stats
 
-![Pradeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeepmadival&show_icons=true&theme=tokyonight)
+![Pradeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeepmadival&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepmadival&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepmadival&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 

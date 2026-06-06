@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Pradeep Madival 👋
 
-<!--
-**pradeepmadival/pradeepmadival** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at **M.S. Ramaiah Institute of Technology, Bengaluru**  
+💻 Passionate about **Python, Web Development & DevOps**  
+🌱 Currently learning **DSA and Cloud Technologies**  
+📍 Karnataka, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** Python, Java, C  
+**Web:** HTML5, CSS3, JavaScript, Flask, React, Node.js  
+**Database:** MySQL, MongoDB  
+**DevOps & Tools:** Git, GitHub, Docker, Jenkins, Vagrant  
+**OS:** Linux (Ubuntu), Windows  
+
+---
+
+## 🚀 Projects
+
+### 🔗 [URL Shortener with Analytics](https://github.com/pradeepmadival/url-shortener)
+Full stack web app built with Python and Flask that shortens URLs and tracks click analytics using MySQL.
+
+### 💬 [Quote-Verse](https://github.com/pradeepmadival/Quote-verse)
+Responsive motivational quotes web app with auto-rotation, category filtering, dark mode and localStorage.
+
+### 🛡️ [URL Shield - Phishing Detector](https://github.com/Rohith24-kumar/url-shield)
+Full stack MERN app that analyzes URLs for phishing and security threats using DNS, SSL and WHOIS checks.
+
+---
+
+## 📊 GitHub Stats
+
+![Pradeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeepmadival&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepmadival&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/pradeep-madival-71844825a)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/pradeepmadival)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:pradeepmadival84@gmail.com)
